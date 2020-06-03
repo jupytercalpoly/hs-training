@@ -1,2 +1,2 @@
-# hs-training
-Jupyter Notebooks with training material for HS interns.
+# Materials for HS Internship 2020
+
